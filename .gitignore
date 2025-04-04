@@ -1,0 +1,21 @@
+# Ignore sensitive files
+database/firebase-adminsdk.json
+Downloads/test.py
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment variables
+.env
+.env.local
+
+# Ignore models and downloads
+models/
+
+
+# IDE specific files
+.vscode/
+.idea/
