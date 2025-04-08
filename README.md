@@ -51,6 +51,5 @@ Edit `config.py` to set:
 ## Dependencies
 - Streamlit
 - Firebase Admin SDK
-- LangChain
 - Sentence Transformers
 - FAISS
