@@ -17,7 +17,7 @@ from reportlab.lib.enums import TA_CENTER
 from reportlab.lib.pagesizes import letter
 
 # Firebase Setup
-FIREBASE_WEB_API_KEY = "AIzaSyCDB8DW-HMBLx9S9Nj8NG1uWUtvcpTJrO8"
+FIREBASE_WEB_API_KEY = "xxxxxxxxxxxxxxx"
 if not firebase_admin._apps:
     cred = credentials.Certificate(r"D:\Major project\database\firebase-adminsdk.json")
     firebase_admin.initialize_app(cred)
