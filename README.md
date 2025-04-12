@@ -32,7 +32,6 @@ export FIREBASE_CREDENTIALS_PATH="path/to/credentials.json"
 backend/          # Core business logic and AI integration
 database/         # Firebase configuration and auth
 frontend/         # Streamlit web interface
-models/           # Local model storage
 ```
 
 ## Usage
